@@ -1,0 +1,31 @@
+.information {
+    display: flex;
+    gap: 1rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.information__1 {
+    width: 50%;
+    margin: auto 0;
+    padding: 1rem;
+}
+
+.information__2 {
+    width: 50%;
+    text-align: center;
+}
+
+.information__1--title {
+    font-size: 2em;
+    color: #6031A5;
+}
+
+.information__2--img {
+    width: 90%;
+}
+
+.information__1--paragraf {
+    color: #8A8E91;
+    margin: 1rem 0;
+}
