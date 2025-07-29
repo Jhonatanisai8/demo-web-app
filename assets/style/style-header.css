@@ -1,0 +1,32 @@
+.header {
+    background-image: url('/assets/imgs/bg.svg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    min-height: 70vh;
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+}
+
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* #352A79 */
+h2 {
+    color: #352A79;
+    font-size: 3.3em;
+    font-weight: 800;
+    margin-bottom: 25px;
+
+}
+
+p {
+    font-size: 1em;
+    color: #6031A5;
+    margin-bottom: 35px;
+}
